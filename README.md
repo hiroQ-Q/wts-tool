@@ -1,0 +1,2 @@
+# wts-tool
+discordのwtsのツール
